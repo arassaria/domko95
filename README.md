@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [DispoDisco](https://github.com/DiscoDevs/DispoDisco)
 
+- 🔭 I’m currently working on [Overwatch Simulator](https://github.com/domko95/overwatch-simulator)
+
 - 👨‍💻 My Portfolio [https://domko95.github.io/portfolio/](https://domko95.github.io/portfolio/)
 
 - 📫 How to reach me **dominique.kolbe1995@googlemail.com**
