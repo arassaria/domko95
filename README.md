@@ -30,6 +30,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-482834%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 📦 135.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ███████████████░░░░░░░░░░   62.5% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 <em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
