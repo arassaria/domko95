@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96566%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304423%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 783 Contributions in the Year 2020
+> 🏆 784 Contributions in the Year 2020
  > 
-> 📦 137.9 kB Used in Github's Storage 
+> 📦 139.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
