@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-374072%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-377048%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 26 Contributions in the Year 2021
+> 🏆 52 Contributions in the Year 2021
  > 
-> 📦 154.2 kB Used in Github's Storage 
+> 📦 154.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ████████████████░░░░░░░░░   63.64% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+JavaScript               15 repos            █████████████████░░░░░░░░   68.18% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
