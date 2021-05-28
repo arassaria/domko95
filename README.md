@@ -32,28 +32,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-405613%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-438814%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 67 Contributions in the Year 2021
+> 🏆 75 Contributions in the Year 2021
  > 
-> 📦 164.2 kB Used in Github's Storage 
+> 📦 165.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            ████████████████░░░░░░░░░   66.67% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+JavaScript               17 repos            █████████████████░░░░░░░░   68.0% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 
