@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-507212%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-507837%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 96 Contributions in the Year 2021
+> 🏆 97 Contributions in the Year 2021
  > 
 > 📦 175.5 kB Used in Github's Storage 
  > 
@@ -59,7 +59,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2021
+ Last Updated on 10/09/2021
 <!--END_SECTION:waka-->
 
 <em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
