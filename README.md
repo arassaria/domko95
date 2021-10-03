@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 > 🏆 98 Contributions in the Year 2021
  > 
-> 📦 176.8 kB Used in GitHub's Storage 
+> 📦 176.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,7 +59,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2021
+ Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
 
 <em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
