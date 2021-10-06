@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 98 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 176.9 kB Used in GitHub's Storage 
  > 
@@ -59,7 +59,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2021
+ Last Updated on 06/10/2021
 <!--END_SECTION:waka-->
 
 <em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
