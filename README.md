@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  > 
 > 📜 31 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
@@ -59,7 +59,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 
 <em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
