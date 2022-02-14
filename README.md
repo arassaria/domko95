@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 16 Contributions in the Year 2022
+> 🏆 18 Contributions in the Year 2022
  > 
-> 📦 180.7 kB Used in GitHub's Storage 
+> 📦 196.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,17 +49,17 @@ Here are some ideas to get you started:
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               21 repos            ██████████████████░░░░░░░   72.41% 
+JavaScript               20 repos            █████████████████░░░░░░░░   68.97% 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
 PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
 Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 
 ```
 
 
 
- Last Updated on 13/02/2022 18:43:08 UTC
+ Last Updated on 14/02/2022 18:43:35 UTC
 <!--END_SECTION:waka-->
 
 <em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
