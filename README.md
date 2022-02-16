@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-450%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-451%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 19 Contributions in the Year 2022
+> 🏆 23 Contributions in the Year 2022
  > 
-> 📦 196.6 kB Used in GitHub's Storage 
+> 📦 197.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,17 +49,17 @@ Here are some ideas to get you started:
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            █████████████████░░░░░░░░   68.97% 
+JavaScript               21 repos            ██████████████████░░░░░░░   72.41% 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
 PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
 Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 
 ```
 
 
 
- Last Updated on 15/02/2022 18:45:10 UTC
+ Last Updated on 16/02/2022 18:44:11 UTC
 <!--END_SECTION:waka-->
 
 <em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
