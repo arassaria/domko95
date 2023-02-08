@@ -49,17 +49,17 @@ Here are some ideas to get you started:
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ██████████████████░░░░░░░   74.19% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+JavaScript               23 repos            ██████████████████░░░░░░░   74.19 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 ```
 
 
 
- Last Updated on 07/02/2023 18:43:49 UTC
+ Last Updated on 08/02/2023 18:43:43 UTC
 <!--END_SECTION:waka-->
 
 <em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
