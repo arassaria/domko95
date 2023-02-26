@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dominique</h1>
+<h1 align="center">Hi 👋, I'm Lea </h1>
 <h3 align="center">A Fullstack Developer at neuefische</h3>
 
 - 🔭 I’m currently working on [DispoDisco](https://github.com/DiscoDevs/DispoDisco)
